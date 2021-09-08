@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ripple_foreground">#33FFFFFF</color>
+    <color name="default_text_color">#000000</color>
+    <color name="default_background_color">#FFFFFF</color>
+    <color name="color_primary">@color/md_light_blue_700</color>
+
+    <!--
+
+     <style name="AppTheme.Base" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItem</item>
+        <item name="spinnerDropDownItemStyle">@style/SpinnerItem.DropDownItem</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerItem.DropDownItem</item>
+        <item name="buttonStyle">@style/MyTransparentButton</item>
+        <item name="android:buttonStyle">@style/MyTransparentButton</item>
+        <item name="android:itemBackground">@color/default_background_color</item>
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+
+    -->
+</resources>

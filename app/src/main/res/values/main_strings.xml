@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="default_package_name">truecaller.caller.callerid.name.phone.dialer.app</string>
+    <!--LIVE ADS-->
+    <!--    <string name="application_id">ca-app-pub-3220064355361724~1609770696</string>-->
+    <!--    <string name="banner_ads">ca-app-pub-4549432324343274/3880027960</string>-->
+    <!--    <string name="interstitial_ads">ca-app-pub-3220064355361724/2458929883</string>-->
+    <!--TEST ADS-->
+    <string name="application_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ads">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ads">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
